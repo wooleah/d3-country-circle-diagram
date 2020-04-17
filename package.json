@@ -1,0 +1,16 @@
+{
+  "name": "d3-practice-country-population-diagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "country-json": "^1.1.0",
+    "d3": "^5.15.1"
+  }
+}
