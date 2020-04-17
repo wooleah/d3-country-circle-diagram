@@ -5,7 +5,7 @@ const loadData = async () => {
 
   const canvas = document.querySelector(".canvas");
   const text = document.createElement("h1");
-  text.innerText = "test";
+  text.innerText = data;
 
   canvas.appendChild(text);
 };
